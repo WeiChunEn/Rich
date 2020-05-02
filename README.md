@@ -1,7 +1,7 @@
 # 童年樂事-Mobile_Game
 ## ゲーム紹介
 「童年樂事（幼い楽しみ）」というアプリは私は見習い会社にプログラミングしました案件です<br>
-チームメンバー数は二人です。<br>
+開発のチームメンバー数は二人です。<br>
 その実績はDepartment of Information and Communication of Providence Universityと<br>
 一緒合作して台湾政府の科技部門向けの案件でした。<br>
 このプロジェクトは従来の老人ホームに提供した<br>
