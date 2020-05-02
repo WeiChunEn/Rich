@@ -1,5 +1,5 @@
-# 童年樂事-Mobile_Game
-## ゲーム紹介
+## 童年樂事-Mobile_Game
+### ゲーム紹介
 「童年樂事（幼い楽しみ）」というアプリは私は見習い会社にプログラミングしました案件です<br>
 開発のチームメンバー数は二人です。<br>
 その実績はDepartment of Information and Communication of Providence Universityと<br>
@@ -19,9 +19,9 @@ Pro版用を使われネットワークを繋がれば２００名のプレヤ�
 さいころの点数によって進行方向へ進み簡単に遊び出来る。<br>
 成績の結果によってプレゼントを貰えるとのアプリ（APP）です。<br>
 現在このアプリは商品化になってGoogle Playからダウンロードできる事になっております	
-### ダウンロードリンク： https://reurl.cc/kaEW3 <br>
-### ビデオリンク：https://reurl.cc/A0Xgj <br>
-## 下記図面をご参考ください
+#### ダウンロードリンク： https://reurl.cc/kaEW3 <br>
+#### ビデオリンク：https://reurl.cc/A0Xgj <br>
+### 下記図面をご参考ください
 ![Alt text](https://imgur.com/5pNRqt4.jpg "Start Menu")
 ![Alt text](https://imgur.com/HMIt3Po.jpg "Help Menu")
 ![Alt text](https://imgur.com/BzJXJOf.jpg "Game Scene")
